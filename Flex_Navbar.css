@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+    width: auto;
+    background-color: grey;
+    display: flex;
+
+    
+}
+.nav-title{
+    color: white;
+    margin-right: 200px;
+    padding-right: 400px;
+}
+.nav-links{
+    gap:50px;
+    display: flex;
+    color: white;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+#btn{
+    justify-content: right;
+    margin-left: 100px;
+    background-color: aqua;
+    color: white;
+    box-shadow: 5px 2px black;
+}
+.href{
+    color:white;
+    justify-content:right;
+    
+
+}
